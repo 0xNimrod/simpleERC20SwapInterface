@@ -7,7 +7,7 @@ Simple tool to swap your ERC20 tokens
 Clone the repo:
 
 ```sh
-git clone git@github.com:hermeznetwork/token-swap.git
+git clone git@github.com:Luigy-Lemon/simpleERC20SwapInterface.git
 ```
 
 Move into the project directory:
@@ -38,4 +38,4 @@ npm start
 
 ## License
 
-`token-swap` is part of the Polygon Hermez project copyright 2021 published with AGPL-3 license. Please check the LICENSE file for more details.
+`token-swap` is a fork of the Polygon Hermez project copyright 2021 published with AGPL-3 license. Please check the LICENSE file for more details.
