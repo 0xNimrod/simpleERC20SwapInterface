@@ -1,19 +1,19 @@
-# HEZ to MATIC tool
+# ERC20 swaps frontend
 
-Simple tool to convert your HEZ tokens to MATIC after the Polygon - Hermez merge.
+Simple tool to swap your ERC20 tokens
 
 ## Getting Started
 
 Clone the repo:
 
 ```sh
-git clone git@github.com:hermeznetwork/hez-to-matic.git
+git clone git@github.com:hermeznetwork/token-swap.git
 ```
 
 Move into the project directory:
 
 ```sh
-cd hez-to-matic
+cd token-swap
 ```
 
 Install project dependencies:
@@ -38,4 +38,4 @@ npm start
 
 ## License
 
-`hez-to-matic` is part of the Polygon Hermez project copyright 2021 published with AGPL-3 license. Please check the LICENSE file for more details.
+`token-swap` is part of the Polygon Hermez project copyright 2021 published with AGPL-3 license. Please check the LICENSE file for more details.

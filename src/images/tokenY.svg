@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg
+  id="a"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="64" height="64"
+  viewBox="0 0 100 100"
+><defs><style>.c{fill:url(#b);opacity:.9;}</style><linearGradient
+      id="b"
+      x1="10.34"
+      y1="79.92"
+      x2="76.96"
+      y2="13.3"
+      gradientTransform="matrix(1, 0, 0, 1, 0, 0)"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#fff" /><stop
+        offset="0"
+        stop-color="#f5fbfe"
+      /><stop offset="0" stop-color="#c7ecfa" /><stop
+        offset="0"
+        stop-color="#9cddf6"
+      /><stop offset="0" stop-color="#77d0f2" /><stop
+        offset="0"
+        stop-color="#56c5ef"
+      /><stop offset="0" stop-color="#3bbced" /><stop
+        offset="0"
+        stop-color="#25b4eb"
+      /><stop offset="0" stop-color="#14aee9" /><stop
+        offset="0"
+        stop-color="#08aae8"
+      /><stop offset="0" stop-color="#01a8e8" /><stop
+        offset="0"
+        stop-color="#00a8e8"
+      /><stop offset=".15" stop-color="#03a6e8" /><stop
+        offset=".28"
+        stop-color="#0fa1e8"
+      /><stop offset=".42" stop-color="#2299e9" /><stop
+        offset=".55"
+        stop-color="#3d8eeb"
+      /><stop offset=".68" stop-color="#5f7fed" /><stop
+        offset=".81"
+        stop-color="#8a6def"
+      /><stop offset=".94" stop-color="#bb59f2" /><stop
+        offset=".99"
+        stop-color="#d44ff4"
+      /></linearGradient></defs><path
+    class="c"
+    d="M43.64,93.22c-19.52,0-36.3-11.51-43.64-27.97H43.64c10.52,0,19.05-8.35,19.05-18.64s-8.53-18.64-19.05-18.64H0C7.35,11.51,24.12,0,43.64,0c26.3,0,47.62,20.87,47.62,46.61s-21.32,46.61-47.62,46.61Z"
+  /></svg>
